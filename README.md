@@ -1,2 +1,2 @@
 # Spider
-A program implemented for the implementation of concept of Multithreading in Java.
+A program implemented for the powerful concept of Multithreading in Java.
